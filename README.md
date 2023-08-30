@@ -8,6 +8,7 @@ As I prepare to share this unique endeavor on GitHub, I invite you to join in an
 
 Welcome to the symphony of the virtual violin!
 
-![vertical screen](https://github.com/abdullaharslan01/FlutterViolinSound/assets/125302932/b60c9358-8ea5-486c-9392-f970f2ef1ec8)
-
-![horizontal screen](https://github.com/abdullaharslan01/FlutterViolinSound/assets/125302932/f884d451-d7b3-4e13-b7ce-f05b9e82b238)
+<div style="display: flex;">
+  <img src="https://github.com/abdullaharslan01/FlutterViolinSound/assets/125302932/ea09a1a4-c75c-4f87-a223-09e55ed9a263" alt="Horizontal Image" width="300"/>
+  <img src="https://github.com/abdullaharslan01/FlutterViolinSound/assets/125302932/c0507183-1225-41de-b5bd-49458ddd67f2" alt="Vertical Image" width="300"/>
+</div>

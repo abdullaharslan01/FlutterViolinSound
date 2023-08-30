@@ -7,7 +7,6 @@ In this project, I've ingeniously transformed container elements into interactiv
 As I prepare to share this unique endeavor on GitHub, I invite you to join in and discover the realm of the violin's melodic charm. Your feedback and contributions are immensely valuable in refining this auditory escapade.
 
 Welcome to the symphony of the virtual violin!
-![horizontal](https://github.com/abdullaharslan01/FlutterViolinSound/assets/125302932/11964e20-8cec-4548-bfed-1647f807b6d0)
-![vertical](https://github.com/abdullaharslan01/FlutterViolinSound/assets/125302932/2ead65fd-9409-4dc8-9c01-ba6e87c303af)
 
 
+![FlutterViolineSound](https://github.com/abdullaharslan01/FlutterViolinSound/assets/125302932/9fe7e1c0-4fe3-488c-9303-d634cccbbc80)
